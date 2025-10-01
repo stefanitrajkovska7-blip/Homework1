@@ -1,0 +1,3 @@
+The quick, brown cat jumps over a lazy dog.
+The cat wakes up the lazy dog.
+The lazy dog chased the cat around the neighborhood.
